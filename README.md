@@ -1,1 +1,1 @@
-It is normal Calc Try it : https://ahmedalaa999.github.io/Calculator/
+It is normal Calculator Try it : https://ahmedalaa999.github.io/Calculator/
